@@ -1,10 +1,88 @@
 {
-  "product":[
-      { "products": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Nob29sJTIwYmFnfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60", "text": "Stylish Women Bag", "price": "£75.00","id":1 },
-      { "products": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60", "text": "Stylish Watch For Man", "price": "£75.00" },
-      { "products": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dCUyMHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60", "text": "Polo T-shirt For Man", "price": "£75.00" },
-      { "products": "https://images.unsplash.com/photo-1627123424574-724758594e93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbGV0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60", "text": "Luxury Wallet For Male", "price": "£75.00" },
-      { "products": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60", "text": "Stylish Watch For Man", "price": "£75.00" },
-      { "products": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60", "text": "Stylish Women Bag", "price": "£75.00"}
+  "product": [
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-01.jpg",
+      "text": "Stylish Women Bag",
+      "price": 75,
+      "shipping": 10.85,
+      "discount": 9,
+      "offer": "Hot",
+      "offerc": "bg-red-600",
+      "id": 1
+    },
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "text": "Stylish Watch For Man",
+      "price": 75,
+      "shipping": 10.85,
+      "discount": 9,
+      "price1": "£150.00",
+      "offer": "-50%",
+      "offerc": "bg-blue-700",
+      "id": 2
+    },
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+      "text": "Luxury Wallet For Male",
+      "price": 95,
+      "shipping": 10.85,
+      "discount": 9,
+      "offer": "New",
+      "offerc": "bg-green-500",
+      "id": 3
+    },
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "text": "Stylish Watch For Man",
+      "shipping": 10.85,
+      "discount": 9,
+      "price": 75,
+      "id": 4
+    },
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-01.jpg",
+      "text": "Stylish Women Bag",
+      "price": 75,
+      "shipping": 10.85,
+      "discount": 9,
+      "offer": "Hot",
+      "offerc": "bg-red-500",
+      "id": 5
+    },
+    {
+      "products": "https://plus.unsplash.com/premium_photo-1663127429325-3acefe582da5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHNob2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "text": "Stylish Shoes",
+      "price": 75,
+      "shipping": 10.85,
+      "discount": 9,
+      "offer": "Hot",
+      "offerc": "bg-red-500",
+      "id": 5
+    }
+  ],
+  "newproducts": [
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+      "text": "Luxury Wallet For Male",
+      "price": 95,
+      "shipping": 10.85,
+      "discount": 9,
+      "offer": "New",
+      "offerc": "bg-green-500",
+      "id": 3
+    }
+  ],
+  "favourite": [
+    {
+      "products": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "text": "Stylish Watch For Man",
+      "price": 75,
+      "shipping": 10.85,
+      "discount": 9,
+      "price1": "£150.00",
+      "offer": "-50%",
+      "offerc": "bg-blue-700",
+      "id": 2
+    }
   ]
 }
